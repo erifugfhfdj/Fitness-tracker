@@ -8,12 +8,6 @@ This is a Fitness Tracker built using MERN stack. It facilitates one to add user
 
 👉 [Link](https://serene-volhard-1843cb.netlify.app/)
 
-Backend Heroku Link-https://fitness-tracker-mern.herokuapp.com/
-
-[Users](https://fitness-tracker-mern.herokuapp.com/users)
-
-[Exercises](https://fitness-tracker-mern.herokuapp.com/exercises)
-
 ## Screenshots
 
 Homepage
