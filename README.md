@@ -22,9 +22,6 @@ Homepage
 Create user
 ![fitkit_user](https://user-images.githubusercontent.com/4997491/117525054-3911cb00-afde-11eb-97b5-a468f17935de.JPG)
 
-Record Fitness Activity
-![fitkit_exercise](https://user-images.githubusercontent.com/4997491/117525061-3d3de880-afde-11eb-9201-acdb5b804f40.JPG)
-
 Fitness Activity Dashboard
 ![fitkit_dashboard](https://user-images.githubusercontent.com/4997491/117525087-652d4c00-afde-11eb-92d4-0fda6f5c5d03.JPG)
 
